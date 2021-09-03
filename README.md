@@ -1,2 +1,3 @@
 # UG_Layout
-Auto layout
+
+A description of this package.
