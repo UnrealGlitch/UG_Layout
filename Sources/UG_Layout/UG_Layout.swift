@@ -1,6 +1,6 @@
 import UIKit
 
-extension UIView {
+public extension UIView {
    
     func pinAll(to parentView: UIView) {
         leftAnchor.constraint(equalTo: parentView.leftAnchor).isActive = true
